@@ -1,4 +1,4 @@
-let apikey = '';
+let apikey = 'ec40519210b3099c7ecea8e3383578fe';
 
 
 // Función para obtener el tiempo actual de una ciudad
